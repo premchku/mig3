@@ -24,6 +24,7 @@ Wed Jun 10 12:38:55 UTC 2020--><server>
         <properties url="jdbc:mysql://172.21.108.78:3306/prem"
                     user="prem"
                     password="Prem"/>
+      </dataSource>
 
     <httpSession/>
     <mimeTypes>
