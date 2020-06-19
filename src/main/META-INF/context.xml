@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource name="jdbc/myapp" auth="Container" type="javax.sql.DataSource"
+              maxActive="15" maxIdle="3" username="prem" password="Prem" 
+              driverClassName="com.mysql.cj.jdbc.Driver"
+              url="jdbc:mysql://172.21.108.78:3306/prem"/>
+</Context>
